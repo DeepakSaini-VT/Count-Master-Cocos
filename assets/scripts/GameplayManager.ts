@@ -10,7 +10,6 @@ import {
   Vec3,
   View,
 } from "cc";
-import gsap from "gsap";
 import { CharactersManager } from "./CharactersManager";
 import { CharacterController } from "./CharacterController";
 import { Level } from "./Level";
