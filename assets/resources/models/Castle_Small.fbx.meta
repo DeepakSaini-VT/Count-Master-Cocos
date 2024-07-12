@@ -1,0 +1,171 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "455e89e8-cfdf-4e1f-8ee8-2c8f93808eca",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "60a7f": {
+      "importer": "gltf-mesh",
+      "uuid": "455e89e8-cfdf-4e1f-8ee8-2c8f93808eca@60a7f",
+      "displayName": "",
+      "id": "60a7f",
+      "name": "Castle.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 20544
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "455e89e8-cfdf-4e1f-8ee8-2c8f93808eca@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.3333332538604736
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "6363a": {
+      "importer": "gltf-material",
+      "uuid": "455e89e8-cfdf-4e1f-8ee8-2c8f93808eca@6363a",
+      "displayName": "",
+      "id": "6363a",
+      "name": "03 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "db4d2": {
+      "importer": "gltf-material",
+      "uuid": "455e89e8-cfdf-4e1f-8ee8-2c8f93808eca@db4d2",
+      "displayName": "",
+      "id": "db4d2",
+      "name": "02 - Default.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "455e89e8-cfdf-4e1f-8ee8-2c8f93808eca@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e9c2": {
+      "importer": "gltf-scene",
+      "uuid": "455e89e8-cfdf-4e1f-8ee8-2c8f93808eca@9e9c2",
+      "displayName": "",
+      "id": "9e9c2",
+      "name": "Castle_Small.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 3.3333332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 3.3333332538604736,
+            "wrapMode": 2,
+            "previousId": "73b7f"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "455e89e8-cfdf-4e1f-8ee8-2c8f93808eca@60a7f"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "455e89e8-cfdf-4e1f-8ee8-2c8f93808eca@6363a",
+        "455e89e8-cfdf-4e1f-8ee8-2c8f93808eca@db4d2",
+        "455e89e8-cfdf-4e1f-8ee8-2c8f93808eca@d90a4"
+      ],
+      "scenes": [
+        "455e89e8-cfdf-4e1f-8ee8-2c8f93808eca@9e9c2"
+      ]
+    }
+  }
+}
