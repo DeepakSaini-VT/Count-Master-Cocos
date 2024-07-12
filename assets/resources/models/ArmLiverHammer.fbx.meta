@@ -1,0 +1,224 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "52cded91-60b5-495a-bbf8-5716438d3bd7",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "d51a4": {
+      "importer": "gltf-mesh",
+      "uuid": "52cded91-60b5-495a-bbf8-5716438d3bd7@d51a4",
+      "displayName": "",
+      "id": "d51a4",
+      "name": "Circle.004.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 432
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "17d84": {
+      "importer": "gltf-mesh",
+      "uuid": "52cded91-60b5-495a-bbf8-5716438d3bd7@17d84",
+      "displayName": "",
+      "id": "17d84",
+      "name": "Cylinder.032.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 100
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c9e9": {
+      "importer": "gltf-animation",
+      "uuid": "52cded91-60b5-495a-bbf8-5716438d3bd7@6c9e9",
+      "displayName": "",
+      "id": "6c9e9",
+      "name": "obstacles.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.316666603088379
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "9fd4b": {
+      "importer": "gltf-material",
+      "uuid": "52cded91-60b5-495a-bbf8-5716438d3bd7@9fd4b",
+      "displayName": "",
+      "id": "9fd4b",
+      "name": "gray 1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e900f": {
+      "importer": "gltf-material",
+      "uuid": "52cded91-60b5-495a-bbf8-5716438d3bd7@e900f",
+      "displayName": "",
+      "id": "e900f",
+      "name": "gray 3.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "92dfd": {
+      "importer": "gltf-material",
+      "uuid": "52cded91-60b5-495a-bbf8-5716438d3bd7@92dfd",
+      "displayName": "",
+      "id": "92dfd",
+      "name": "red.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b31f4": {
+      "importer": "gltf-material",
+      "uuid": "52cded91-60b5-495a-bbf8-5716438d3bd7@b31f4",
+      "displayName": "",
+      "id": "b31f4",
+      "name": "white.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e8c72": {
+      "importer": "gltf-material",
+      "uuid": "52cded91-60b5-495a-bbf8-5716438d3bd7@e8c72",
+      "displayName": "",
+      "id": "e8c72",
+      "name": "gray 2.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "916c6": {
+      "importer": "gltf-scene",
+      "uuid": "52cded91-60b5-495a-bbf8-5716438d3bd7@916c6",
+      "displayName": "",
+      "id": "916c6",
+      "name": "ArmLiverHammer.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "obstacles",
+        "duration": 2.316666603088379,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "obstacles",
+            "from": 0,
+            "to": 2.316666603088379,
+            "wrapMode": 2,
+            "previousId": "6c9e9"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "52cded91-60b5-495a-bbf8-5716438d3bd7@d51a4",
+        "52cded91-60b5-495a-bbf8-5716438d3bd7@17d84"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "52cded91-60b5-495a-bbf8-5716438d3bd7@9fd4b",
+        "52cded91-60b5-495a-bbf8-5716438d3bd7@e900f",
+        "52cded91-60b5-495a-bbf8-5716438d3bd7@92dfd",
+        "52cded91-60b5-495a-bbf8-5716438d3bd7@b31f4",
+        "52cded91-60b5-495a-bbf8-5716438d3bd7@e8c72"
+      ],
+      "scenes": [
+        "52cded91-60b5-495a-bbf8-5716438d3bd7@916c6"
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6d9fea67-9bf6-4c47-ae8d-eb1558098336",
+  "files": [],
+  "subMetas": {
+    "aea21": {
+      "importer": "gltf-mesh",
+      "uuid": "6d9fea67-9bf6-4c47-ae8d-eb1558098336@aea21",
+      "displayName": "",
+      "id": "aea21",
+      "name": "Cone.004.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 454
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "215f3": {
+      "importer": "gltf-scene",
+      "uuid": "6d9fea67-9bf6-4c47-ae8d-eb1558098336@215f3",
+      "displayName": "",
+      "id": "215f3",
+      "name": "spikes.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "6d9fea67-9bf6-4c47-ae8d-eb1558098336@aea21"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "6d9fea67-9bf6-4c47-ae8d-eb1558098336@215f3"
+      ]
+    }
+  }
+}

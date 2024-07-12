@@ -1,0 +1,17 @@
+{
+  "__version__": "1.0.6",
+  "custom_joint_texture_layouts": [],
+  "physics": {
+    "allowSleep": false,
+    "gravity": {
+      "y": -9.8
+    }
+  },
+  "general": {
+    "designResolution": {
+      "width": 432,
+      "height": 960
+    },
+    "highQuality": true
+  }
+}
